@@ -1,6 +1,6 @@
 # Automated Extraction & Classification of Dataset Citations  
 
-I developed this project for the [Make Data Count Kaggle competition]([https://makedatacount.org/](https://www.kaggle.com/competitions/make-data-count-finding-data-references/overview)), which focuses on identifying and classifying dataset citations from scientific literature. The challenge centered on **PDF-based biomedical research papers**, and my solution was a fully automated **natural language processing (NLP)** pipeline that integrates **regex-based extraction** with **Large Language Model (LLM)** classification.  
+I developed this project for the [Make Data Count Kaggle competition](https://www.kaggle.com/competitions/make-data-count-finding-data-references/overview), which focuses on identifying and classifying dataset citations from scientific literature. The challenge centered on **PDF-based biomedical research papers**, and my solution was a fully automated **natural language processing (NLP)** pipeline that integrates **regex-based extraction** with **Large Language Model (LLM)** classification.  
 
 ## 📄 Project Structure & Pipeline Design  
 
